@@ -1,0 +1,67 @@
+[
+  {
+    "rpc": "https://rpc.ankr.com/arbitrum",
+    "status": 200,
+    "time": 465
+  },
+  {
+    "rpc": "https://arbitrum.blockpi.network/v1/rpc/public",
+    "status": 200,
+    "time": 533
+  },
+  {
+    "rpc": "https://arbitrum.meowrpc.com",
+    "status": 200,
+    "time": 610
+  },
+  {
+    "rpc": "https://rpc.arb1.arbitrum.gateway.fm",
+    "status": 200,
+    "time": 767
+  },
+  {
+    "rpc": "https://1rpc.io/arb",
+    "status": 200,
+    "time": 778
+  },
+  {
+    "rpc": "https://arbitrum-one.public.blastapi.io",
+    "status": 200,
+    "time": 896
+  },
+  {
+    "rpc": "https://arbitrum.llamarpc.com",
+    "status": 200,
+    "time": 1097
+  },
+  {
+    "rpc": "https://arb-mainnet-public.unifra.io",
+    "status": 200,
+    "time": 1218
+  },
+  {
+    "rpc": "https://arbitrum.api.onfinality.io/public",
+    "status": 200,
+    "time": 1223
+  },
+  {
+    "rpc": "https://arb1.arbitrum.io/rpc",
+    "status": 200,
+    "time": 1357
+  },
+  {
+    "rpc": "https://arbitrum-one.publicnode.com",
+    "status": 200,
+    "time": 1363
+  },
+  {
+    "rpc": "https://arbitrum.drpc.org",
+    "status": 200,
+    "time": 1369
+  },
+  {
+    "rpc": "https://endpoints.omniatech.io/v1/arbitrum/one/public",
+    "status": 200,
+    "time": 1778
+  }
+]

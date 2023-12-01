@@ -1,0 +1,122 @@
+{
+  "https://arbitrum.llamarpc.com": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "transaction",
+    "information"
+  ],
+  "https://arb1.arbitrum.io/rpc": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "transaction",
+    "information"
+  ],
+  "https://rpc.ankr.com/arbitrum": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "transaction",
+    "information"
+  ],
+  "https://1rpc.io/arb": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "filter",
+    "transaction",
+    "information"
+  ],
+  "https://arb-mainnet.g.alchemy.com/v2/demo": [
+    "block",
+    "gas",
+    "filter",
+    "information"
+  ],
+  "https://arbitrum.blockpi.network/v1/rpc/public": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "filter",
+    "transaction",
+    "information"
+  ],
+  "https://arbitrum-one.public.blastapi.io": [
+    "block",
+    "blockNumber",
+    "gas",
+    "transaction",
+    "information"
+  ],
+  "https://endpoints.omniatech.io/v1/arbitrum/one/public": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "filter",
+    "transaction",
+    "information"
+  ],
+  "https://arb-mainnet-public.unifra.io": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "filter",
+    "transaction",
+    "information"
+  ],
+  "https://arbitrum.api.onfinality.io/public": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "filter",
+    "transaction",
+    "information"
+  ],
+  "https://rpc.arb1.arbitrum.gateway.fm": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "transaction",
+    "information"
+  ],
+  "https://arbitrum-one.publicnode.com": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "filter",
+    "transaction",
+    "information"
+  ],
+  "https://arbitrum.meowrpc.com": [
+    "logs",
+    "block",
+    "blockNumber",
+    "gas",
+    "filter",
+    "transaction",
+    "information"
+  ],
+  "https://api.zan.top/node/v1/arb/one/public": [
+    "blockNumber",
+    "gas",
+    "information"
+  ],
+  "https://arbitrum.drpc.org": [
+    "block",
+    "blockNumber",
+    "gas",
+    "transaction",
+    "information"
+  ]
+}
